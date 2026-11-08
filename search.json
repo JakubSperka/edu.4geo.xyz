@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "predmety/spracovanie-a-analyza-merani.html",
+    "href": "predmety/spracovanie-a-analyza-merani.html",
+    "title": "Spracovanie a analýza meraní",
+    "section": "",
+    "text": "Materiály zatiaľ nie sú dostupné\n\n\n\nPre túto tematickú oblasť zatiaľ nie sú dostupné žiadne študijné materiály. Obsah budeme postupne dopĺňať.\n\n\n← Späť na prehľad tematických oblastí"
+  },
+  {
+    "objectID": "o-projekte.html",
+    "href": "o-projekte.html",
+    "title": "O projekte",
+    "section": "",
+    "text": "edu.4geo.xyz je priestor pre doplnkové študijné materiály k predmetom Katedry globálnej geodézie a geoinformatiky v rámci štúdia geodézie a kartografie."
+  },
+  {
+    "objectID": "o-projekte.html#o-stránke",
+    "href": "o-projekte.html#o-stránke",
+    "title": "O projekte",
+    "section": "O stránke",
+    "text": "O stránke\nCieľom stránky je sústrediť študijné podklady na jednom mieste a podporiť samostatnú prácu študentov. Obsah je usporiadaný podľa tematických oblastí, ktoré môžu prepájať viacero nadväzujúcich predmetov.\nAktuálne stránka zahŕňa Programovanie, Spracovanie a analýzu meraní a Kozmickú geodéziu. Materiály k programovaniu sú dostupné na py4geodesy.xyz. Ďalšie materiály budeme postupne dopĺňať."
+  },
+  {
+    "objectID": "o-projekte.html#poďakovanie-a-financovanie",
+    "href": "o-projekte.html#poďakovanie-a-financovanie",
+    "title": "O projekte",
+    "section": "Poďakovanie a financovanie",
+    "text": "Poďakovanie a financovanie\n\n\n\n\n\n\nPoznámka\n\n\n\nVývoj tejto stránky je financovaný z projektu „Projekt na zvýšenie úspešnosti študentov v absolvovaní predmetov Programovanie 1 a Spracovanie a analýza meraní 1, 2 prostredníctvom online vzdelávacej platformy a doučovania“.\nĎakujeme za podporu tvorby a rozvoja online študijných materiálov."
+  },
+  {
+    "objectID": "o-projekte.html#použitie-umelej-inteligencie",
+    "href": "o-projekte.html#použitie-umelej-inteligencie",
+    "title": "O projekte",
+    "section": "Použitie umelej inteligencie",
+    "text": "Použitie umelej inteligencie\nPri tvorbe webu edu.4geo.xyz boli použité nástroje generatívnej umelej inteligencie spoločnosti OpenAI. Toto vyhlásenie uvádza rozsah ich použitia podľa zásad transparentnosti v článkoch V a VI opatrenia rektora STU č. 1/2024-O zo dňa 27. novembra 2024 – Používanie umelej inteligencie na Slovenskej technickej univerzite v Bratislave.\n\nPoužité nástroje a rozsah použitia\n\nOpenAI Codex (2026): návrh a úpravy zdrojových súborov Quarto, navigácie, rozloženia stránok, CSS a SCSS štýlov vrátane svetlej a tmavej témy. Nástroj bol použitý aj pri technickom overovaní zostavenia webu.\nOpenAI Codex (2026): návrh a formulácia textov úvodnej stránky, popisov tematických oblastí, oznamov o nedostupnosti materiálov a stránky „O projekte“ vrátane poďakovania a tohto vyhlásenia. Texty vznikali na základe zadania a priebežných pripomienok autora stránky; názov financujúceho projektu poskytol autor.\nOpenAI Imagegen (2026): vygenerovanie ikony glóbusu používanej v navigácii a ako ikona webu.\nOpenAI Codex (2026): vytvorenie kódu dekoratívnej súradnicovej mriežky a SVG vrstevníc v pozadí. Tieto prvky sú ilustračné a nepredstavujú skutočné mapové ani výškopisné údaje.\n\n\n\nZodpovednosť a pôsobnosť vyhlásenia\nZa výber, kontrolu a zverejnenie obsahu zodpovedá autor stránky. Nástroje AI slúžia ako pomocné nástroje a nie sú uvádzané ako autori ani spoluautori. Ich výstupy vyžadujú ľudské posúdenie; samotné technické overenie webu nenahrádza odbornú kontrolu študijných materiálov.\nVyhlásenie sa vzťahuje na tvorbu tohto webu. Nevypovedá o použití AI pri tvorbe materiálov na externej stránke py4geodesy.xyz. Pri dopĺňaní nových študijných materiálov je potrebné rozsah použitia AI uviesť pri príslušnom obsahu."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Materiály pre štúdium geodézie a kartografie",
+    "section": "",
+    "text": "Katedra globálnej geodézie a geoinformatiky\nDoplnkové študijné materiály na jednom mieste. Vyberte si tematickú oblasť a nájdite podklady, ktoré vám pomôžu pri štúdiu."
+  },
+  {
+    "objectID": "index.html#tematické-oblasti",
+    "href": "index.html#tematické-oblasti",
+    "title": "Materiály pre štúdium geodézie a kartografie",
+    "section": "Tematické oblasti",
+    "text": "Tematické oblasti\n\n\nProgramovanie\nMateriály k programovaniu v jazyku Python v kontexte geodézie, spoločne pre predmety Programovanie 1 a 2.\n\nMateriály dostupné na py4geodesy.xyz\n\nPrejsť na materiály ↗\n\n\nSpracovanie a analýza meraní\nSpoločný priestor pre študijné materiály z oblasti spracovania a analýzy meraní.\n\nMateriály zatiaľ nie sú dostupné\n\nOtvoriť tematickú oblasť →\n\n\nKozmická geodézia\nSpoločný priestor pre študijné materiály z oblasti kozmickej geodézie.\n\nMateriály zatiaľ nie sú dostupné\n\nOtvoriť tematickú oblasť →\n\n\n\nMateriály sú usporiadané podľa tematických oblastí, ktoré môžu zahŕňať viacero nadväzujúcich predmetov. Obsah budeme postupne dopĺňať."
+  },
+  {
+    "objectID": "predmety/kozmicka-geodezia.html",
+    "href": "predmety/kozmicka-geodezia.html",
+    "title": "Kozmická geodézia",
+    "section": "",
+    "text": "Materiály zatiaľ nie sú dostupné\n\n\n\nPre túto tematickú oblasť zatiaľ nie sú dostupné žiadne študijné materiály. Obsah budeme postupne dopĺňať.\n\n\n← Späť na prehľad tematických oblastí"
+  }
+]
